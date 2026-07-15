@@ -1,2 +1,25 @@
-# 3cb308ee-dropshipping-print-on-demand
-The dropshipping tool you'd build yourself — if you had the time.  Ready to use immediately — open, fill in your details, done. Fully editable: every field, color, and section customizable.  ## What's Included  - Dropshipping &amp; Print-On-Demand Prompt Library For Ai Tools — fully configured and ready to use - Fully editable: all fields, colors, and
+# Dropshipping & Print-on-Demand Prompt Library for AI Tools
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oUdR9aDdbUE7BCavOcZM0s)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oUdR9aDdbUE7BCavOcZM0s)
+
